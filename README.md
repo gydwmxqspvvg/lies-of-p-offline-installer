@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Lies of P is a thrilling soulslike that takes the story of Pinocchio, turns it on its head, and sets it against the darkly elegant backdrop of the Belle Epoque era.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,12 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Windows 10 64bit | macOS Ventura 13.0 or newer |
+| **Processor** | AMD Ryzen 3 1200／Intel Core i3-6300 | Apple Silicon |
+| **Memory** | Min: 8 GB RAM / Rec: 16 GB RAM | 8 GB RAM |
+| **Graphics** | Min: AMD Radeon RX 560 4GB / NVIDIA GeForce GTX 960 4GB / Rec: AMD Radeon RX 6500 XT 4GB / NVIDIA GeForce GTX 1660 6GB | Apple Silicon |
+| **DirectX** | Version 12 | Version 12 |
+| **Storage** | 50 GB available space | 50 GB available space |
 
 ---
 
